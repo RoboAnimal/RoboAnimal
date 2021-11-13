@@ -27,3 +27,10 @@ I can speak:
 ![image](https://user-images.githubusercontent.com/94212971/141607830-d47fd324-7313-42cf-9df6-80941340d4fe.png)
 ![image](https://user-images.githubusercontent.com/94212971/141607836-8ac3ebd2-dde4-4b10-b560-853dd0c97914.png)
 
+I play:
+![image](https://user-images.githubusercontent.com/94212971/141607870-c32c0dd8-d3f0-4f03-b2b3-83a8746d4ddd.png)
+![image](https://user-images.githubusercontent.com/94212971/141607875-b6aa7b42-1248-4258-b18b-855412fc0294.png)
+
+
+Hobbies:
+Learning about snake,world,chess,world, and pika pika
